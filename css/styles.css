@@ -1,5 +1,40 @@
+.html{
+  background-color: rgb(126, 73, 126);
+}
 .head {
-  color: aquamarine;
+  color:crimson;
+  text-align: center;
+  font-style: italic;
+}
+.intro {
+  color: darkblue;
+  font-size: larger;
+  font-family: sans-serif;
+
+}
+.accomodations{
+  color: blue;
+}
+.activities{
+  color: blue;
+}
+.arrangements{
+  color:  blue
+}
+.contact{
+  color: blue;
+}
+.pictures{
+  color: blue;
+}
+.image{
+  align-self: center;
+}
+.head2{
+  color: crimson;
+
+}
+.p1{
+  color: blue;
   text-align: center;
 }
-
