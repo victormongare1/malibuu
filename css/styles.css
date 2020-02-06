@@ -40,8 +40,10 @@
   font-style: italic;
 }
 .p1{
-  color: black
+  color: black;
   text-align: center;
+  font-size: 40px;
+
 }
 .image{
   position: relative;
@@ -50,16 +52,19 @@
   text-align: center;
   color: black;
   font-size: 50px;
+  font-style: italic;
   
   
 }
 .act{
   text-align: center;
-  color: black
+  color: black;
+  font-size: 50px;
 }
 .din{
   text-align: center;
-  color: black
+  color: black;
+  font-size: 50px;
 }
 .spa{
   text-align: center;
@@ -69,3 +74,23 @@ body {
   background-image: url(../island\ 5.jpg)
   
 }
+.cont {
+  font-size: 80px;
+  text-align: center;
+}
+
+}
+
+.spa {
+  text-align: center;
+  font-size: 30px;
+}
+.din {
+  text-align: center;
+  font-size: 30px;
+}
+.p2 {
+  text-align: center;
+  font-size: 60px;
+}
+
