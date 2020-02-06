@@ -2,40 +2,39 @@
   background-color: rgb(126, 73, 126);
 }
 .head {
-  color:crimson;
+  color: black
   text-align: center;
   font-style: italic;
 }
 .intro {
-  color: darkblue;
-  font-size: larger;
-  font-family: sans-serif;
-
+  color: #000;
+  font-size: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.accomodations{
-  color: blue;
+.tro{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: green;
+  
 }
-.activities{
-  color: blue;
-}
-.arrangements{
-  color:  blue
-}
-.contact{
-  color: blue;
-}
-.pictures{
-  color: blue;
+.content{
+  
+  color: rgb(29, 7, 7);
+  font-size: 35px;
+  float: left;
+  width: 30%;
+  background-color: black;
 }
 .image{
   align-self: center;
 }
-.head2{
-  color: crimson;
-
+.head{
+  text-align: center;
+  color: #000;
+  font-size: 50px;
+  font-style: italic;
 }
 .p1{
-  color: blue;
+  color: black
   text-align: center;
 }
 .image{
@@ -43,18 +42,21 @@
 }
 .head3{
   text-align: center;
-  color: crimson;
+  color: black
   
 }
 .act{
   text-align: center;
-  color: crimson;
+  color: black
 }
 .din{
   text-align: center;
-  color: crimson;
+  color: black
 }
 .spa{
   text-align: center;
-  color: crimson;
+  color: black
+}
+body {
+  background-image: url(../island2.jpg)
 }
