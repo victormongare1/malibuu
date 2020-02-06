@@ -38,3 +38,23 @@
   color: blue;
   text-align: center;
 }
+.image{
+  position: relative;
+}
+.head3{
+  text-align: center;
+  color: crimson;
+  
+}
+.act{
+  text-align: center;
+  color: crimson;
+}
+.din{
+  text-align: center;
+  color: crimson;
+}
+.spa{
+  text-align: center;
+  color: crimson;
+}
