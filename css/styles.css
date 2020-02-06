@@ -2,23 +2,29 @@
   background-color: rgb(126, 73, 126);
 }
 .head {
-  color: black
+  color: black;
   text-align: center;
   font-style: italic;
+  
 }
 .intro {
   color: #000;
   font-size: 30px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  float: right;
+  width: 70%;
+  
+
+  
 }
 .tro{
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: green;
+  color: red;
   
 }
 .content{
   
-  color: rgb(29, 7, 7);
+  color: red;
   font-size: 35px;
   float: left;
   width: 30%;
@@ -42,7 +48,9 @@
 }
 .head3{
   text-align: center;
-  color: black
+  color: black;
+  font-size: 50px;
+  
   
 }
 .act{
@@ -58,5 +66,6 @@
   color: black
 }
 body {
-  background-image: url(../island2.jpg)
+  background-image: url(../island\ 5.jpg)
+  
 }
