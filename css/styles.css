@@ -92,5 +92,18 @@ body {
 .p2 {
   text-align: center;
   font-size: 60px;
+}@media screen and(device-width =360px) and (device-height =640px){
+  body{
+    
+    font-size: 20px;
+
+  }
+}
+@media screen and (min width =468px){
+  body{
+    font size :20px;
+    float: left;
+    width: 10px;
+  }
 }
 
